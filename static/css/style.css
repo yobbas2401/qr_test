@@ -196,7 +196,7 @@ img {
 * Buttons
 -----------------------------------*/
 .btn {
-  font-size: 18px;
+  font-size: 12px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
@@ -1457,12 +1457,12 @@ font-size:15px ;
 
 .home-banner-03 h5 {
   font-weight: 600;
-  font-size: 22px;
+  font-size: 14px;
   position: relative;
   /* z-index: 1; */
   display: inline-block;
   vertical-align: top;
-  padding: 12px 60px;
+  padding: 5px 60px;
   align-content: center;
 }
 .home-banner-03 h5:after {
@@ -5379,7 +5379,7 @@ blockquote.blockquote-left .parson {
   .md-p-15px-tb {padding-top: 15px; padding-bottom: 15px }
   .md-p-20px-tb {padding-top: 20px; padding-bottom: 20px }
   .md-p-25px-tb {padding-top: 25px; padding-bottom: 25px }
-  .md-p-30px-tb {padding-top: 30px; padding-bottom: 30px }
+  .md-p-30px-tb {padding-top: 3;padding-bottom: 30px}
   .md-p-35px-tb {padding-top: 35px; padding-bottom: 35px }
   .md-p-40px-tb {padding-top: 40px; padding-bottom: 40px }
   .md-p-45px-tb {padding-top: 45px; padding-bottom: 45px }
